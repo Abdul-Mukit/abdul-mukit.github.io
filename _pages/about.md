@@ -30,7 +30,7 @@ Developed, trained, and deployed an instance segmentation model using PyTorch an
 Implemented package condition (damaged or tilted) estimation algorithm for cardboard boxes and packs of cans. Developed 3D point cloud filtering algorithms for damaged and tilted items using OpenCV and PCL. Integrated vision algorithms to robotic systems at Walmart warehouses enabling damaged and tilted item handling.  
 
 I love connecting with new people. You can contact me on [LinkedIn](https://www.linkedin.com/in/abdul-mukit-in/)!  
-Check out my projects on github: https://github.com/Abdul-Mukit
+Check out my projects on [GitHub](https://github.com/Abdul-Mukit).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
