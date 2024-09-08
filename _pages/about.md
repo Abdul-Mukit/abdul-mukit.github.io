@@ -24,16 +24,12 @@ PyTorch, OpenCV, ONNX, PCL, Voxel-51, Datumaro, Python, C++, C#
 Here are a few examples of my work:  
 
 **Walmart Robotic Depalletizing Vision System**  
-• Developed, trained, and deployed an instance segmentation model using PyTorch and ONNX to production.  
-• Developed 6-DoF pose estimation and geometric vision pipeline using OpenCV and Point Cloud Library.  
-• Optimized vision system to run on CPU at 2-FPS and integrated with robotic system enabling 700 picks per hour.  
+Developed, trained, and deployed an instance segmentation model using PyTorch and ONNX to production. Developed 6-DoF pose estimation and geometric vision pipeline using OpenCV and Point Cloud Library. Optimized vision system to run on CPU at 2-FPS and integrated with robotic system enabling 700 picks per hour.  
 
 **Package Condition Sensitive Point Cloud Filtering**  
-• Implemented package condition (damaged or tilted) estimation algorithm for cardboard boxes and packs of cans.  
-• Developed 3D point cloud filtering algorithms for damaged and tilted items using OpenCV and PCL.  
-• Integrated vision algorithms to robotic systems at Walmart warehouses enabling damaged and tilted item handling.  
+Implemented package condition (damaged or tilted) estimation algorithm for cardboard boxes and packs of cans. Developed 3D point cloud filtering algorithms for damaged and tilted items using OpenCV and PCL. Integrated vision algorithms to robotic systems at Walmart warehouses enabling damaged and tilted item handling.  
 
-I love connecting with new people. You can contact me on [LinkedIn](https://www.linkedin.com/in/abdul-mukit-in/)!  
+I love connecting with new people. You can contact me on [LinkedIn](https://www.linkedin.com/in/abdul-mukit-in/)!  
 Check out my projects on github: https://github.com/Abdul-Mukit
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
