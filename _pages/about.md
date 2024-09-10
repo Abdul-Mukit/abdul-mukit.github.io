@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Computer Vision Engineer with 3+ years of experience with deep learning and classical computer vision based software development. I help organizations develop perception pipelines to perform object detection, instance segmentation, 6-DoF pose estimation, data engineering and model deployments.  
+Computer Vision Engineer with 3+ years of experience in deep learning and classical computer vision based software development. I help organizations develop perception pipelines to perform object detection, instance segmentation, 6-DoF pose estimation, data engineering and model deployments.  
 
 **Technical Skills and Tools**:  
 PyTorch, OpenCV, ONNX, PCL, Voxel-51, Datumaro, Python, C++, C#  
