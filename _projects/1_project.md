@@ -2,7 +2,7 @@
 layout: page
 title: AI Robot Vision
 description: Deep learning and classical computer vision based perception software for warehouse automation.
-video: /assets/video/animated_depal.webm
+img: assets/video/animated_depal.webm
 importance: 1
 category: work
 related_publications: true
