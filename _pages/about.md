@@ -23,10 +23,10 @@ PyTorch, OpenCV, ONNX, PCL, Voxel-51, Datumaro, Python, C++, C#
 
 I am currently working as a Computer Vision Engineer at [Mujin](https://mujin-corp.com/), a robotic warehouse automation company. Here are a few examples of my work:  
 
-**Walmart Robotic Depalletizing Vision System**  
+**[Walmart Robotic Depalletization Vision System](https://abdul-mukit.github.io/projects/project_mujin_ai_vision/)**  
 Developed, trained, and deployed an instance segmentation model using PyTorch and ONNX to production. Developed 6-DoF pose estimation and geometric vision pipeline using OpenCV and Point Cloud Library. Optimized vision system to run on CPU at 2-FPS and integrated with robotic system enabling 700 picks per hour.  
 
-**Package Condition Sensitive Point Cloud Filtering**  
+**[Package Condition Sensitive Point Cloud Filtering](https://abdul-mukit.github.io/projects/project_mujin_ai_vision/)**
 Implemented package condition (damaged or tilted) estimation algorithm for cardboard boxes and packs of cans. Developed 3D point cloud filtering algorithms for damaged and tilted items using OpenCV and PCL. Integrated vision algorithms to robotic systems at Walmart warehouses enabling damaged and tilted item handling.  
 
 I love connecting with new people. You can contact me on [LinkedIn](https://www.linkedin.com/in/abdul-mukit-in/)!  
