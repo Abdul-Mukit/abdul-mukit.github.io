@@ -5,7 +5,7 @@ description: Deep learning and classical computer vision based perception softwa
 img: assets/img/mujin/robot.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 #### Introduced AI Vision System for Robotic Depalletization [@Mujin](https://mujin-corp.com/depalletizing/)
@@ -71,15 +71,17 @@ I am an avid follower of Dr. [Andrew Ng](https://youtu.be/5p248yoa3oE?si=3EnW7_Z
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mujin/instance_seg_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mujin/instance_seg_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mujin/instance_seg_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mujin/instance_seg_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mujin/instance_seg_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Real-time instance segmentation and 6-DoF pose estimation enabled by deep learning.
+    Realtime instance segmentation and 6-DoF pose estimation enabled by deep learning.
 </div>
