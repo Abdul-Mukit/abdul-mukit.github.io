@@ -2,7 +2,7 @@
 layout: page
 title: AI Robot Vision
 description: Deep learning and classical computer vision based perception software for warehouse automation.
-video: assets/video/animated_depal.webm
+video: assets/img/robot.png
 importance: 1
 category: work
 related_publications: true
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/quickbot_with_digital_twin.gif" class="img-fluid rounded z-depth-1" controls=false autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
