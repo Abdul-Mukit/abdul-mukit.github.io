@@ -15,10 +15,12 @@ related_publications: false
 
 **Skills/Tools:** OpenCV, Python, C++, C#, MRTK, Unity, Microsoft Azure.  
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row">
+    <div class="col-md">
         {% include video.liquid path="https://www.youtube.com/embed/rz8lR_NlG-4?si=aR4KNziA2JxFYtUe" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/nakamir/austin_looking_at_engine.jpg" title="User learning to fix car using NARA." class="img-fluid rounded z-depth-1" %}
     </div>
