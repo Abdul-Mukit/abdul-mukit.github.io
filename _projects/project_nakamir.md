@@ -15,7 +15,7 @@ related_publications: false
 
 **Skills/Tools:** OpenCV, Python, C++, C#, MRTK, Unity, Microsoft Azure.  
 
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/rz8lR_NlG-4?si=aR4KNziA2JxFYtUe" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -34,5 +34,5 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    I also helped integrate human body pose estimation on the Microsoft Hololens-2. This resulted in an [IEEE publication](https://ieeexplore.ieee.org/abstract/document/10322250).
+    I also helped integrate human body pose estimation on the Microsoft Hololens-2. This resulted in an IEEE publication: https://ieeexplore.ieee.org/abstract/document/10322250.
 </div>

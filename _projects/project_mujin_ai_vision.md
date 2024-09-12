@@ -20,6 +20,7 @@ related_publications: false
 * Developed 3D point cloud filtering algorithms for damaged and tilted items using OpenCV and PCL.
 * Integrated vision algorithms to robotic systems at Walmart warehouses enabling damaged and tilted item handling.
 
+**Skills/Tools:** PyTorch, OpenCV, PCL, Open3D, ONNX, CVAT, Python, Linux, Git, Voxel-51, Datumaro.  
 
 <!-- Application Description -->
 <div class="row">
