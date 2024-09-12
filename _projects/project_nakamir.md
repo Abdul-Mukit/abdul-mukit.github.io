@@ -17,7 +17,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/rz8lR_NlG-4?si=o6eWb0nodlR7eBFC" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/rz8lR_NlG-4?si=aR4KNziA2JxFYtUe" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/nakamir/austin_looking_at_engine.jpg" title="User learning to fix car using NARA." class="img-fluid rounded z-depth-1" %}
