@@ -37,7 +37,7 @@ The mission is to augment every surgery. Compared to a pilot flying a plane or e
 
 Following are IntraOpVSP usage examples:
 
-
+<!-- 
 <!-- CT Before After Views -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -164,4 +164,4 @@ Following are IntraOpVSP usage examples:
 </div>
 <div class="caption">
 
-</div> -->
+</div> --> -->
