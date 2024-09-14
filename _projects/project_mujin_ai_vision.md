@@ -24,13 +24,13 @@ related_publications: false
 <!-- Application Description -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/single_sku_depal_with_detection_view.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
+        {% include video.liquid path="assets/video/single_sku_depal_with_detection_view.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/pallet_detection_and_placed_on_a_splitsheet.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
+        {% include video.liquid path="assets/video/pallet_detection_and_placed_on_a_splitsheet.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/quickbot_with_digital_twin.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
+        {% include video.liquid path="assets/video/quickbot_with_digital_twin.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
@@ -53,7 +53,7 @@ to keep up with the endless complexities and chaotic realities of US warehouses 
         {% include figure.liquid loading="eager" path="assets/img/mujin/damaged_box_pointcloud.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/tilted_box_picking.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
+        {% include video.liquid path="assets/video/tilted_box_picking.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
