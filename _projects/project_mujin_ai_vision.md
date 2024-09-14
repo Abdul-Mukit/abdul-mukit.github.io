@@ -25,7 +25,7 @@ related_publications: false
 <!-- Application Description -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/video/single_sku_depal_with_detection_view.gif" class="img-fluid rounded z-depth-1" controls=false autoplay=true %}
+        {% include video.liquid path="assets/video/single_sku_depal_with_detection_view.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/video/pallet_detection_and_placed_on_a_splitsheet.gif" class="img-fluid rounded z-depth-1" controls=false autoplay=true %}
