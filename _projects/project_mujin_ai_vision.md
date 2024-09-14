@@ -10,7 +10,6 @@ related_publications: false
 
 #### Introduced AI Vision System for Robotic Depalletization [@Mujin](https://mujin-corp.com/depalletizing/)
 * Developed and deployed the first deep learning assisted robotic vision system for depalletizing applications.
-* Currently being used in companies like Walmart, P&G, Paltac, ebabling thousands of picks per day.
 * Developed, trained, and deployed an instance segmentation model using PyTorch and ONNX to production.
 * Developed 6-DoF pose estimation and geometric vision pipeline using OpenCV and Point Cloud Library.
 * Optimized vision system to run on CPU at 2-FPS and integrated with robotic system enabling 700 picks per hour.
@@ -28,10 +27,10 @@ related_publications: false
         {% include video.liquid path="assets/video/single_sku_depal_with_detection_view.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/video/pallet_detection_and_placed_on_a_splitsheet.gif" class="img-fluid rounded z-depth-1" controls=false autoplay=true %}
+        {% include video.liquid path="assets/video/pallet_detection_and_placed_on_a_splitsheet.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/video/quickbot_with_digital_twin.gif" class="img-fluid rounded z-depth-1" controls=false autoplay=true %}
+        {% include video.liquid path="assets/video/quickbot_with_digital_twin.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
@@ -54,7 +53,7 @@ to keep up with the endless complexities and chaotic realities of US warehouses 
         {% include figure.liquid loading="eager" path="assets/img/mujin/damaged_box_pointcloud.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/video/tilted_box_picking.gif" class="img-fluid rounded z-depth-1" controls=false autoplay=true %}
+        {% include video.liquid path="assets/video/tilted_box_picking.mp4" class="img-fluid rounded z-depth-1" controls=false autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
