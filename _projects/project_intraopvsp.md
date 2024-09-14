@@ -21,8 +21,8 @@ As part of my [MS research](https://shareok.org/handle/11244/332567), I implemen
 
 **Skills/Tools:** PyTorch, OpenCV, Unity3D, Blender, MeshLab, DLib, C++, C#, Python.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-md-center">
+    <div class="col-md">
         {% include video.liquid path="https://www.youtube.com/embed/kwTxmF2W0vY" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -33,9 +33,10 @@ As part of my [MS research](https://shareok.org/handle/11244/332567), I implemen
 
 <!-- Problem Description -->
 ### The Problem
-The mission is to augment every surgery. Compared to a pilot flying a plane or even a regular google-map user on his way to work/home, surgeons today have their instruments clustered behind them hanging in the wall. The Google Maps user or the pilot gets constant real-time updates regarding where they are, what to do next, and other vital data that helps them make split-second decisions. They don't have to plan the trip for days or memorize every turn and detail of every landmark along the way. They just do it. On the other hand, surgeons today have to do rigorous surgical planning, memorize the specifics of each unique case, and all the necessary steps to ensure the safest possible surgery. Then they engage in complex procedures for several hours, with no targeting or homing devices or head-mounted displays to assist them. They have to feel their way to their objective and hope everything goes as they planned. In my research, I made the "google-maps" for surgery.
+The mission is to augment every surgery. Compared to a pilot flying a plane or even a regular google-map user on his way to work/home, surgeons today have their instruments clustered behind them hanging in the wall. The Google Maps user or the pilot gets constant real-time updates regarding where they are, what to do next, and other vital data that helps them make split-second decisions. They don't have to plan the trip for days or memorize every turn and detail of every landmark along the way. They just do it. On the other hand, surgeons today have to do rigorous surgical planning, memorize the specifics of each unique case, and all the necessary steps to ensure the safest possible surgery. Then they engage in complex procedures for several hours, with no targeting or homing devices or head-mounted displays to assist them. They have to feel their way to their objective and hope everything goes as they planned. In my research, I made the "google-maps" for surgery.  
+Following are IntraOpVSP usage examples:  
 
-Following are IntraOpVSP usage examples:
+
 
 <!-- CT Before After Views -->
 <div class="row">
@@ -52,6 +53,7 @@ Following are IntraOpVSP usage examples:
 <div class="caption">
     CT scan of the head can be aligned to the patient's head using computer vision. Purple shows the CT scan of the head before surgery. Red shows the planned cuts/segments in their intended position after the surgery. Yellow shows the base structure of the skull which will remain unmodified.
 </div>
+
 
 
 <!-- Vision -->
@@ -71,6 +73,7 @@ Following are IntraOpVSP usage examples:
 </div>
 
 
+
 <!-- CT Parts Moving-->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -83,6 +86,7 @@ Following are IntraOpVSP usage examples:
 <div class="caption">
     Using hand tracking and voice commands, the user can interact with the different parts of the aligned CT scans.
 </div>
+
 
 
 <!-- CT Slice Views -->
@@ -119,6 +123,8 @@ Following are IntraOpVSP usage examples:
     This is a demonstration of liver surgery. Computer vision can't be used for pose estimation as the body of the subject is covered by a cloth. Thus, I implemented a semi-automatic alignment process by allowing the surgeon to place known landmarks on the subject's body during surgery. I then align the CT scan data to the subject's body using 3D rigid body pose transform estimation.
 </div>
 
+
+
 <!-- Liver Surgery Tumor -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -136,6 +142,7 @@ Following are IntraOpVSP usage examples:
 </div>
 
 
+
 <!-- Ear Reconstruction Surgery -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -148,19 +155,3 @@ Following are IntraOpVSP usage examples:
 <div class="caption">
     Example of an ear reconstruction surgery using IntraOpVSP.
 </div>
-
-
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/intraopvsp/" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/intraopvsp/" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/intraopvsp/" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-
-</div> -->
