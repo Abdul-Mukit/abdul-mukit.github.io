@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vision System for Augmented Reality Assistant
+title: Augmented Reality Assistant
 description: Context-aware AR Assistant using Hololens-2.
 img: assets/img/nakamir/hl2.png
 importance: 2
