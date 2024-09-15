@@ -19,7 +19,8 @@ As part of my [MS research](https://shareok.org/handle/11244/332567), I implemen
 * Used OpenCV, DLib, and PyTorch for 6-DoF pose estimation of human head and surgical tools.
 * Annotated 2D, 3D data for machine learning.
 
-**Skills/Tools:** PyTorch, OpenCV, Unity3D, Blender, MeshLab, DLib, C++, C#, Python.
+**Skills/Tools:** PyTorch, OpenCV, Unity3D, Blender, MeshLab, DLib, C++, C#, Python.  
+
 
 <div align="center">
     {% include video.liquid path="https://www.youtube.com/embed/kwTxmF2W0vY" class="img-fluid rounded z-depth-1" %}
@@ -31,7 +32,8 @@ As part of my [MS research](https://shareok.org/handle/11244/332567), I implemen
 
 <!-- Problem Description -->
 #### The Problem
-The mission is to augment every surgery. Compared to a pilot flying a plane or even a regular google-map user on his way to work/home, surgeons today have their instruments clustered behind them hanging in the wall. The Google Maps user or the pilot gets constant real-time updates regarding where they are, what to do next, and other vital data that helps them make split-second decisions. They don't have to plan the trip for days or memorize every turn and detail of every landmark along the way. They just do it. On the other hand, surgeons today have to do rigorous surgical planning, memorize the specifics of each unique case, and all the necessary steps to ensure the safest possible surgery. Then they engage in complex procedures for several hours, with no targeting or homing devices or head-mounted displays to assist them. They have to feel their way to their objective and hope everything goes as they planned. In my research, I made the "google-maps" for surgery.  
+The mission is to augment every surgery. Compared to a pilot flying a plane or even a regular google-map user on his way to work/home, surgeons today have their instruments clustered behind them hanging in the wall. The Google Maps user or the pilot gets constant real-time updates regarding where they are, what to do next, and other vital data that helps them make split-second decisions. They don't have to plan the trip for days or memorize every turn and detail of every landmark along the way. They just do it. On the other hand, surgeons today have to do rigorous surgical planning, memorize the specifics of each unique case, and all the necessary steps to ensure the safest possible surgery. Then they engage in complex procedures for several hours, with no targeting or homing devices or head-mounted displays to assist them. They have to feel their way to their objective and hope everything goes as they planned. In my research, I made the "google-maps" for surgery.   
+
 
 #### Examples:
 Following are IntraOpVSP usage examples:  
@@ -50,7 +52,7 @@ Following are IntraOpVSP usage examples:
     </div>
 </div>
 <div class="caption">
-    CT scan of the head can be aligned to the patient's head using computer vision. Purple shows the CT scan of the head before surgery. Red shows the planned cuts/segments in their intended position after the surgery. Yellow shows the base structure of the skull which will remain unmodified.
+    CT scan of the head can be aligned to the patient's head using computer vision. Purple shows the CT scan of the head before surgery. Red shows the planned cuts/segments and their intended position after the surgery. Yellow shows the base structure of the skull which will remain unmodified.
 </div>
 
 
