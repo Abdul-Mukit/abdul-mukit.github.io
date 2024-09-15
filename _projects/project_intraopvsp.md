@@ -3,7 +3,7 @@ layout: page
 title: IntraOpVSP
 description: Intra operative virtual surgical planning using AR and Computer Vision.
 img: assets/img/intraopvsp/head_in_ghost_mode.png
-importance: 3
+importance: 2
 category: work
 related_publications: false
 ---
@@ -30,10 +30,11 @@ As part of my [MS research](https://shareok.org/handle/11244/332567), I implemen
 
 
 <!-- Problem Description -->
-### The Problem
+#### The Problem
 The mission is to augment every surgery. Compared to a pilot flying a plane or even a regular google-map user on his way to work/home, surgeons today have their instruments clustered behind them hanging in the wall. The Google Maps user or the pilot gets constant real-time updates regarding where they are, what to do next, and other vital data that helps them make split-second decisions. They don't have to plan the trip for days or memorize every turn and detail of every landmark along the way. They just do it. On the other hand, surgeons today have to do rigorous surgical planning, memorize the specifics of each unique case, and all the necessary steps to ensure the safest possible surgery. Then they engage in complex procedures for several hours, with no targeting or homing devices or head-mounted displays to assist them. They have to feel their way to their objective and hope everything goes as they planned. In my research, I made the "google-maps" for surgery.  
-Following are IntraOpVSP usage examples:  
 
+#### Examples:
+Following are IntraOpVSP usage examples:  
 
 
 <!-- CT Before After Views -->

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 4
+title: Gloved Hand Detection
+description: Custom trained YOLO to detect gloved hands.
+img: assets/img/dope/gloved_hand_detection.jpg
+redirect: https://github.com/Abdul-Mukit/robust_hand_tracking
+importance: 5
 category: fun
 ---
 

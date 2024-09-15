@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 5
+title: Surgical Tool Pose Estimation
+description: 6-DoF pose estimation of medical cautery tool in challenging lightning conditions.
+img: assets/img/dope/dope_project_thumbnail.png
+redirect: https://github.com/Abdul-Mukit/dope_with_hand_tracking
+importance: 4
 category: fun
 ---
 
