@@ -21,10 +21,8 @@ As part of my [MS research](https://shareok.org/handle/11244/332567), I implemen
 
 **Skills/Tools:** PyTorch, OpenCV, Unity3D, Blender, MeshLab, DLib, C++, C#, Python.
 
-<div class="row">
-    <div class="col-md mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/kwTxmF2W0vY" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div align="center">
+    {% include video.liquid path="https://www.youtube.com/embed/kwTxmF2W0vY" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
     IntraOpVSP live demonstration.
