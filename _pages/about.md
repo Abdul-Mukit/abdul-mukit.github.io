@@ -23,7 +23,7 @@ PyTorch, OpenCV, ONNX, PCL, CVAT, Voxel-51, Datumaro, Python, C++, C#
 
 My most recent project:  
 
-**Walmart Robotic Depalletization Vision System**  
+#### Introduced AI Vision System for Robotic Depalletization [@Mujin](https://mujin-corp.com/depalletizing/)
 * Developed and deployed Mujin's first deep learning-assisted robotic vision system for depalletization applications.
 * Trained, optimized, and deployed an instance segmentation model, outperforming Mujin's geometry-based vision system’s mAP by 60% and detection speed by 800%
 * Collected, distilled, and annotated a large warehouse dataset of 20,000 images. CVAT, Datumaro, SAM, and Voxel51 were used to optimize data and annotations carefully.
