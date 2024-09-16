@@ -28,7 +28,8 @@ My most recent project:
 * Trained, optimized, and deployed an instance segmentation model, outperforming Mujin's geometry-based vision system’s mAP by 60% and detection speed by 800%
 * Collected, distilled, and annotated a large warehouse dataset of 20,000 images. CVAT, Datumaro, SAM, and Voxel51 were used to optimize data and annotations carefully.
 * Developed an auto-annotation software to generate ground truth segmentation datasets with 94% mAP automatically.
-* Developed point-cloud processing algorithms increasing pose estimation success rate for tilted and damaged boxes by 92%. 
+* Developed point-cloud processing algorithms increasing pose estimation success rate for tilted and damaged boxes by 92%.  
+
 Check out my [projects](https://abdul-mukit.github.io/projects).  
 
 I love connecting with new people. You can contact me on [LinkedIn](https://www.linkedin.com/in/abdul-mukit-in/)!  
