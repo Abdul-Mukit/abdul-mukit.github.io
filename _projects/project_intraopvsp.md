@@ -8,10 +8,7 @@ category: work
 related_publications: false
 ---
 
-A set of mixed-reality apps that allow surgeons to anatomically align and interact with CT scan data through Microsoft Hololens. The technology has been:  
-* Licensed to a startup for [commercialization](https://www.xironetic.com/).
-* Approved by [FDA](https://www.businesswire.com/news/home/20221114005198/en/Xironetic-Receives-FDA-Clearance-for-Augmented-Reality-Surgical-Software).
-* Used in over 50 human surgeries.
+A set of mixed-reality apps that allow surgeons to anatomically align and interact with CT scan data through Microsoft Hololens. The technology has been used in over 50 human surgeries. The technology has been licensed to a startup for [commercialization](https://www.xironetic.com/) and has been approved by [FDA](https://www.businesswire.com/news/home/20221114005198/en/Xironetic-Receives-FDA-Clearance-for-Augmented-Reality-Surgical-Software).  
 
 #### My Contributions
 As part of my [MS research](https://shareok.org/handle/11244/332567), I implemented the technology from scratch.
