@@ -24,7 +24,11 @@ PyTorch, OpenCV, ONNX, PCL, CVAT, Voxel-51, Datumaro, Python, C++, C#
 My most recent project:  
 
 **Walmart Robotic Depalletization Vision System**  
-Developed, trained, and deployed an instance segmentation model using PyTorch and ONNX to production. Developed 6-DoF pose estimation and geometric vision pipeline using OpenCV and Point Cloud Library. Optimized vision system to run on CPU at 2-FPS and integrated with robotic system enabling 700 picks per hour.  
+* Developed and deployed Mujin's first deep learning-assisted robotic vision system for depalletization applications.
+* Trained, optimized, and deployed an instance segmentation model, outperforming Mujin's geometry-based vision system’s mAP by 60% and detection speed by 800%
+* Collected, distilled, and annotated a large warehouse dataset of 20,000 images. CVAT, Datumaro, SAM, and Voxel51 were used to optimize data and annotations carefully.
+* Developed an auto-annotation software to generate ground truth segmentation datasets with 94% mAP automatically.
+* Developed point-cloud processing algorithms increasing pose estimation success rate for tilted and damaged boxes by 92%. 
 Check out my [projects](https://abdul-mukit.github.io/projects).  
 
 I love connecting with new people. You can contact me on [LinkedIn](https://www.linkedin.com/in/abdul-mukit-in/)!  
