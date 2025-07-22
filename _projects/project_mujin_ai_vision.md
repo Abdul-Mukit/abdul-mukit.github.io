@@ -41,7 +41,7 @@ related_publications: false
 I joined as the first Computer Vision Engineer at Mujin-US in 2023. Before I joined, for the past decade, Mujin had traditionally been a 100%
 geometric computer vision-based company. No machine learning, no deep learning. Previous attempts at using Deep Learning for vision
 purposes were unsuccessful. However, it had become abundantly clear to Mujin that geometric computer vision alone is struggling
-to keep up with the endless complexities and chaotic realities of US warehouses (Yes, US only. Warehouses in Japan are extremely clean and organized).
+to keep up with the endless complexities and chaotic realities of warehouses.
 
 
 <div class="row">

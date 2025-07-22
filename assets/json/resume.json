@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Abdul Mukit",
-    "label": "Computer Vision Engineer",
+    "label": "Senior Computer Vision Engineer",
     "image": "prof_pic.jpg",
     "email": "abdul.mukit64@gmail.com",
     "phone": "(918) 934-8048",
     "url": "https://abdul-mukit.github.io/",
-    "summary": "Computer Vision Engineer with 3+ years of experience in deep learning and classical computer vision based software development.",
+    "summary": "Senior Computer Vision Engineer with 3+ years of experience in deep learning and classical computer vision based software development.",
     "location": {
       "city": "Atlanta",
       "State": "Georgia",
@@ -23,10 +23,19 @@
   "work": [
     {
       "name": "Mujin-US",
+      "position": "Senior Computer Vision Engineer",
+      "url": "https://mujin-corp.com/",
+      "startDate": "2025-07-01",
+      "endDate": "Present",
+      "summary": "Deep learning and geometry based software engineering for robotic depalletizing applications.",
+      "highlights": ["OpenCV, PyTorch, Object Detection, Instance Segmentation, 6-DoF Pose Estimation."]
+    },
+    {
+      "name": "Mujin-US",
       "position": "Computer Vision Engineer",
       "url": "https://mujin-corp.com/",
       "startDate": "2023-05-01",
-      "endDate": "Present",
+      "endDate": "2025-07-01",
       "summary": "Deep learning and geometry based software engineering for robotic depalletizing applications.",
       "highlights": ["OpenCV, PyTorch, Object Detection, Instance Segmentation, 6-DoF Pose Estimation."]
     },

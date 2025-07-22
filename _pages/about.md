@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Vision | Robotics | Deep Learning | Geometry
+subtitle: Senior Computer Vision Engineer | Robotics | Deep Learning | Geometry
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Computer Vision Engineer with 3+ years of experience in deep learning and classical computer vision. I help organizations develop perception pipelines to perform object detection, instance segmentation, 6-DoF pose estimation, data engineering and model deployments. I am currently working as a Computer Vision Engineer at [Mujin](https://mujin-corp.com/), a robotic warehouse automation company.  
+Senior Computer Vision Engineer with 3+ years of experience in deep learning and classical computer vision. I help organizations develop perception pipelines to perform object detection, instance segmentation, 6-DoF pose estimation, data engineering and model deployments. I am currently working as a Senior Computer Vision Engineer at [Mujin](https://mujin-corp.com/), a robotic warehouse automation company.  
 
 **Technical Skills and Tools**:  
 PyTorch, OpenCV, ONNX, PCL, CVAT, Voxel-51, Datumaro, Python, C++, C#  
