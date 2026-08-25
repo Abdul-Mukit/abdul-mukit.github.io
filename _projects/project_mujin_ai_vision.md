@@ -3,7 +3,7 @@ layout: page
 title: AI Robot Vision
 description: Deep learning and classical computer vision based perception software for warehouse automation.
 img: assets/img/mujin/mujin_robot_resized.png
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---

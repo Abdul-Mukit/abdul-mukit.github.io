@@ -4,7 +4,7 @@ title: Surgical Tool Pose Estimation
 description: 6-DoF pose estimation of medical cautery tool in challenging lightning conditions.
 img: assets/img/dope/dope_project_thumbnail.png
 redirect: https://github.com/Abdul-Mukit/dope_with_hand_tracking
-importance: 4
+importance: 5
 category: fun
 ---
 

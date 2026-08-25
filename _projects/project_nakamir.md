@@ -3,7 +3,7 @@ layout: page
 title: Augmented Reality Assistant
 description: Context-aware AR Assistant using Hololens-2.
 img: assets/img/nakamir/hl2.png
-importance: 3
+importance: 4
 category: work
 related_publications: false
 ---

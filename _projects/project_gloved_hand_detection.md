@@ -4,7 +4,7 @@ title: Gloved Hand Detection
 description: Custom trained YOLO to detect gloved hands.
 img: assets/img/dope/gloved_hand_detection.jpg
 redirect: https://github.com/Abdul-Mukit/robust_hand_tracking
-importance: 5
+importance: 6
 category: fun
 ---
 
