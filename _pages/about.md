@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Computer Vision Engineer | Robotics | Deep Learning | Geometry
+subtitle: Senior Machine Learning Engineer | Perception | Autonomous Vehicle | Robotics
 
 profile:
   align: right
@@ -16,18 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Senior Computer Vision Engineer with 3+ years of experience in deep learning and classical computer vision. I help organizations develop perception pipelines to perform object detection, instance segmentation, 6-DoF pose estimation, data engineering and model deployments. I am currently working as a Senior Computer Vision Engineer at [Mujin](https://mujin-corp.com/), a robotic warehouse automation company.  
+I have 5+ years of experience in perception R&D. I currently work in the AV (Autonomous Vehicle) space at General Motors, focusing on multimodal fusion systems. Prior to this, I worked as the Perception Team Lead at Mujin Robotics, leading the full perception stack. I have also worked in the Augmented Reality space. I love solving challenging computer vision problems and having fun throughout every step of that process.
 
 **Technical Skills and Tools**:  
 PyTorch, OpenCV, ONNX, PCL, CVAT, Voxel-51, Datumaro, Python, C++, C#  
-
-My most recent project:  
-
-#### Introduced AI Vision System for Robotic Depalletization [@Mujin](https://mujin-corp.com/depalletizing/)
-* Trained, optimized, and deployed an instance segmentation model, increasing the production rate by 50%. The model outperformed Mujin's existing vision system’s mAP by 60% and detection speed by 800%.
-* Collected, distilled, and annotated a large warehouse dataset of 20,000 images. CVAT, Datumaro, SAM, and Voxel51 were used to optimize data and annotations carefully.
-* Developed an auto-annotation software to generate ground truth segmentation datasets with 94% mAP automatically.
-* Developed point-cloud processing algorithms increasing pose estimation success rate for tilted and damaged boxes by 92%.  
 
 Check out my [projects](https://abdul-mukit.github.io/projects).  
 
