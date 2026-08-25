@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I have 5+ years of experience in perception R&D. I currently work in the Autonomous Vehicle space at General Motors, focusing on multimodal fusion systems. I have also worked as the Robotics Perception Team Lead at Mujin-US, leading the full perception stack. I have also worked in the Augmented Reality space for a few years. I love solving challenging computer vision problems across domains and having fun at every step of the process.
+I have 5+ years of experience in perception R&D. I currently work in the Autonomous Vehicle space at General Motors, focusing on multimodal fusion systems. I worked as the Robotics Perception Team Lead at Mujin-US, leading the full perception stack. I have also worked in the Augmented Reality space for a few years. I love solving challenging computer vision problems across domains and having fun at every step of the process.
 
 **Technical Skills and Tools**:  
 PyTorch, OpenCV, ONNX, PCL, CVAT, Voxel-51, Datumaro, Python, C++, C#  
