@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Autonomous Vehicle Perception - GM
+title: Autonomous Vehicle Perception @ General Motors
 description: Multimodal data fusion for autonomous vehicles.
-img: assets/img/gm/gm_logo.png
+img: assets/img/gm/cruise_taxi.jpg
 importance: 1
 category: work
 related_publications: false
